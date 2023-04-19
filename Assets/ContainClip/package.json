@@ -1,0 +1,10 @@
+{
+    "name": "com.comcreate-info.contain_clip",
+    "displayName": "ContainClip",
+    "version": "1.0.1",
+    "unity": "2018.1",
+    "description": "This is ContainClip Package.",
+    "keywords": ["Script", "Test"],
+    "category": "Controllers",
+    "dependencies": { }
+}
